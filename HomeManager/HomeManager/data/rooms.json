@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bathroom",
+        "appliances": [
+            {"name": "Lamp", "actions": ["on", "off"]},
+            {"name": "Washer", "actions": ["short wash", "long wash"]}
+        ]
+    },
+    {
+        "name": "Bedroom",
+        "appliances": [
+            {"name": "Lamp", "actions": ["on", "off"]},
+            {"name": "Window", "actions": ["open", "close"]}
+        ]
+    },
+    {
+        "name": "Kitchen",
+        "appliances": [
+            {"name": "Lamp", "actions": ["on", "off"]},
+            {"name": "Dishwasher", "actions": ["short wash", "long wash"]}
+        ]
+    },
+    {
+        "name": "Living room",
+        "appliances": [
+            {"name": "Lamp", "actions": ["on", "off"]},
+            {"name": "TV", "actions": ["on", "off"]}
+        ]
+    }
+]
